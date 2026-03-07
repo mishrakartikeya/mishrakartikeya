@@ -1,4 +1,4 @@
-# Hi, I'm Kartikeya,
+# Hi, I'm Kartikeya
 
 ## 🚀 AI/ML Enthusiast | Cloud Architect in Training | Pythonista
 
